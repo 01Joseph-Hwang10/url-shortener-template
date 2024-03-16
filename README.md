@@ -155,7 +155,7 @@ Content-Type: application/json
 ### 3. Health Check Endpoint
 
 실제 프로덕션에서 API 서버들은 종종 `/` 경로에 health check 엔드포인트를 만들어 둡니다.
-Health Check란 서버가 정상적으로 동작하는지를 확인하는 것으로,
+[Health Check](https://hahava.github.io/dev_log/healthcheck)란 서버가 정상적으로 동작하는지를 확인하는 것으로,
 Kubernetes, AWS ELB 등의 로드 밸런서들이 이 엔드포인트를 통해 서버의 상태를 확인합니다.
 
 #### 엔드포인트 명세
