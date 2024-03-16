@@ -174,11 +174,13 @@ Kubernetes, AWS ELB 등의 로드 밸런서들이 이 엔드포인트를 통해 
 
 본 과제는 아래와 같은 형식으로 진행해주시기 바랍니다.
 
-### 1. 리포지토리 생성
+### 1. 프라이빗 리포지토리 생성
 
 본 리포지토리는 [템플릿 리포지토리](https://velog.io/@bgm537/Github%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EA%B8%B0%EB%8A%A5-Template-repository-%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-fsjwpt0x00)로, 본 리포지토리를 템플릿으로 사용하여 새로운 리포지토리를 생성할 수 있습니다.
 
-본인의 Github 계정에 새로운 리포지토리를 생성하고, 아래 사진처럼 화면 우상단에 있는 `Use this template` 버튼을 클릭하여 새로운 리포지토리를 생성해주시기 바랍니다.
+아래 사진처럼 화면 우상단에 있는 `Use this template` 버튼을 클릭하여 본인의 Github 계정에 새로운 프라이빗 리포지토리를 생성해주시기 바랍니다.
+
+리포지토리의 이름은 `url-shortener`로 설정해주시기 바랍니다.
 
 ![Template Repository Example](docs/assets/template-repository-example.png)
 
