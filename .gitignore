@@ -1,0 +1,31 @@
+# Node modules
+node_modules
+
+# Dependencies
+.venv
+venv
+
+# Generated files by python
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
+
+# Artifacts
+dist/
+lib/
+build/
+
+# Nx
+.nx
+
+# Sensitive files
+*.env*
+
+# SQLite database files
+*.sqlite3
+
+# HTTP files
+*.http
+*.rest
