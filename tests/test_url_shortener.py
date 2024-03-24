@@ -57,7 +57,6 @@ def test_create_short_url_again(client: TestClient, shared: dict):
 
     # Response body should contain original URL, short slug and short URL
     response_body = response.json()
-    print(response_body, shared)
     assert response_body["original_url"] == original_url
     assert response_body["short_slug"] == shared["test_create_short_url"]["short_slug"]
     assert response_body["short_url"] is not None
