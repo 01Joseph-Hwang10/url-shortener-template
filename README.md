@@ -21,7 +21,8 @@ ETC | [ETC](#ETC)
 
 URL 단축 서비스의 대표적인 예시로는 [Bitly](https://bitly.com/), [TinyURL](https://tinyurl.com/app) 등이 있습니다.
 
-여러분은 수업에서 배운 내용을 활용하여, URL 단축 서비스의 주요 기능들을 REST API로써 구현해야 합니다.
+여러분은 수업에서 배운 내용을 활용하여, 
+URL 단축 서비스의 주요 기능들을 SQL 데이터베이스를 활용해 REST API로써 구현해야 합니다.
 구체적으로, 아래와 같은 기능들을 구현해야 합니다.
 
 ### 1. 단축 URL 생성
